@@ -7,6 +7,5 @@
                   kernel,
                   stdlib
                  ]},
-  {mod, { mochijson2_app, []}},
   {env, []}
  ]}.
